@@ -1,0 +1,10 @@
+C:\Users\_\source\repos\colorEditor2\colorEditor2\obj\Debug\colorEditor2.csprojAssemblyReference.cache
+C:\Users\_\source\repos\colorEditor2\colorEditor2\obj\Debug\colorEditor2.Form1.resources
+C:\Users\_\source\repos\colorEditor2\colorEditor2\obj\Debug\colorEditor2.Properties.Resources.resources
+C:\Users\_\source\repos\colorEditor2\colorEditor2\obj\Debug\colorEditor2.csproj.GenerateResource.cache
+C:\Users\_\source\repos\colorEditor2\colorEditor2\obj\Debug\colorEditor2.csproj.CoreCompileInputs.cache
+C:\Users\_\source\repos\colorEditor2\colorEditor2\bin\Debug\AutumnEditor.exe.config
+C:\Users\_\source\repos\colorEditor2\colorEditor2\bin\Debug\AutumnEditor.exe
+C:\Users\_\source\repos\colorEditor2\colorEditor2\bin\Debug\AutumnEditor.pdb
+C:\Users\_\source\repos\colorEditor2\colorEditor2\obj\Debug\AutumnEditor.exe
+C:\Users\_\source\repos\colorEditor2\colorEditor2\obj\Debug\AutumnEditor.pdb
